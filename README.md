@@ -1,7 +1,2 @@
-1. Nama Program : Introduction to Python for Data Science
-2. Batch : 1
-3. Nama Peserta : Ninda Nurismiranda
-4. Asal Universitas : Universitas Pendidikan Indonesia
-5. Kelas : PYTN-KS-001
-6. Kode Peserta : PYTN-KS01-010
-7. Nomor Peserta : 010
+Hello~
+My Name is Ninda Nurismiranda. I am a Bachelor of Science in Physics at Universitas Pendidikan Indonesia. I have been interested to data science, here are some projects that I have worked on while participating in program "Studi Independent Bersertifikat Kampus Merdeka" organized by the Ministry of Education and Culture of the Republic of Indonesia and Hacktiv8
